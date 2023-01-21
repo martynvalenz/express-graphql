@@ -24,8 +24,8 @@ export const resolvers = {
       return newUser;
       // mutation {
       //   createUser(input:{
-      //     firstname:"Martin",
-      //     lastname:"Valenzuela",
+      //     firstname:"Marvin",
+      //     lastname:"Valencia",
       //     age:36
       //   }){
       //     _id
@@ -50,8 +50,8 @@ export const resolvers = {
       return user;
       // mutation {
       //   updateUser(_id:"63cc463b4e23753c602888d0",input:{
-      //     firstname:"Martiner"
-      //     lastname: "Valenz"
+      //     firstname:"Marvin"
+      //     lastname: "Torrentera"
       //     age:37
       //   }){
       //     _id
